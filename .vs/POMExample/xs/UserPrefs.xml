@@ -1,0 +1,50 @@
+﻿<Properties StartupConfiguration="{7C04551F-9C9D-4F6D-8AF8-91DF6053D38B}|Default">
+  <MonoDevelop.Ide.ItemProperties.POMExample PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Test/Scripts/test_POM.cs">
+    <Files>
+      <File FileName="Test/Scripts/test_POM.cs" Line="74" Column="33" />
+      <File FileName="Src/PageObject/Pages/SearchPage.cs" />
+      <File FileName="Src/PageObject/Pages/HomePage.cs" />
+      <File FileName="Src/PageObject/Pages/FinalPage.cs" />
+      <File FileName="index.html" Line="19" Column="40" />
+      <File FileName="report-config.xml" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="POMExample" expanded="True">
+            <Node name="POMExample" expanded="True">
+              <Node name="Dependencies" expanded="True">
+                <Node name="PackageDependencies" expanded="True" />
+              </Node>
+              <Node name="Reports" expanded="True">
+                <Node name="Screenshots" expanded="True" />
+              </Node>
+              <Node name="Src" expanded="True">
+                <Node name="PageObject" expanded="True">
+                  <Node name="Pages" expanded="True" />
+                </Node>
+              </Node>
+              <Node name="Test" expanded="True">
+                <Node name="Scripts" expanded="True">
+                  <Node name="test_POM.cs" selected="True" />
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="POMExample" expanded="True" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Release" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
